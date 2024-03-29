@@ -1,0 +1,2 @@
+# Flight-Route-Planner
+ This C program implements Dijkstra's algorithm to find the shortest path between two cities in a road network graph. It defines structures for edges, vertices, and the graph itself. The main function initializes the graph, prompts the user for source and destination cities, finds the shortest path, and prints it along with the distance. Finally, it deallocates memory to prevent memory leaks.
